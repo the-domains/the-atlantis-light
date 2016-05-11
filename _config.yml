@@ -1,0 +1,28 @@
+name: The Atlantis Light
+favicon: null
+layout_spectrum: 0.7770033746492118
+typography_spectrum: 0.3325761496089399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3662624021526426
+  lightness: 0.7000576935242862
+  saturation: 0.8710922710597515
+  rhythmicContrast: 0.7377834529615939
+purpose: []
