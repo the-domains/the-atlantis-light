@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Atlantis Light]]></title>
+        <description><![CDATA[The Atlantis Light]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 23:49:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to The Atlantis Light. I am here to guide you to live a healthy life by following simple steps that will help you connect back to your full well-being. No matter what condition you’re in, whether it’s minor inflammation, injury or fatigue, to chronic illness such as cancer or hiv, you are able to heal yourself. It can be a minor healing (decrease or reduce the symptoms) or it can be a major healing (healing the cause).</p>]]></description>
+            <link>undefinedwelcome-to-the-atlantis-light-i-am-here-to-guide-you-to-liv/index.html</link>
+            <guid isPermaLink="false">4c5be772-58f2-4274-a0c8-999c5dc382c1</guid>
+            <pubDate>Wed, 11 May 2016 23:49:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
